@@ -4,9 +4,9 @@
 * Email: ivan.morozov@list.ru
 * Телефон: +79267338243
 
-* Профиль на github: https://github.com/Xatabch
+* Профиль на github: [https://github.com/Xatabch](https://github.com/Xatabch)
 * Организации на github в которых состою:
-  * https://github.com/uburu
+  * [Uburu](https://github.com/uburu)
   
 ## Образование
 * МГОУ СОШ №1 г. Сергиев Посад
@@ -25,8 +25,7 @@
 * Реализации [API к базе данных проекта «Форумы»](https://github.com/Xatabch/technopark_databases) по документации к этому API
   * В рамках задания необходимо пройти **функциональное** и **нагрузочное** тестирование
   
-* Многопользовательская Онлайн игра Colors:
-https://colors-game.ru
+* Многопользовательская Онлайн игра [Colors](https://colors-game.ru)
 
 ### Творческие
 * [Цветовые круги](https://uburu.github.io)
