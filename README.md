@@ -5,7 +5,7 @@
 * Телефон: +79267338243
 
 * Профиль на github: [https://github.com/Xatabch](https://github.com/Xatabch)
-* Профиль на gilab: [https://gitlab.com/Xatabch](https://gitlab.com/Xatabch)
+* Профиль на gitlab: [https://gitlab.com/Xatabch](https://gitlab.com/Xatabch)
 * Организации на github в которых состою:
   * [https://github.com/uburu](https://github.com/uburu)
   
