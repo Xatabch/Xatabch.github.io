@@ -31,7 +31,7 @@
 * Соц. сеть для публикации текстовых постов(интересно было разработать тектовый редактор аналогичный Medium) [https://lobster.ivanmorozov.now.sh](https://lobster.ivanmorozov.now.sh)
   
 ## Профессиональные навыки:
-* Стек технологий
+* Стек технологий/архитектур
   * JavaScript
   * TypeScript
   * React(в т.ч. tsx)
