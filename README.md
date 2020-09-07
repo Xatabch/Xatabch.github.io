@@ -46,7 +46,6 @@
   * Redux(saga, thunk)
   * Docker
   * Github, Gitlab(А так же CI/CD gitlab-овский и Travis github)
-  * Svelte
   * UI тестирование на основе selenium
   * Enzyme
   * Storybook(для демонстрации UI-компонентов)
