@@ -33,16 +33,14 @@
 ## Профессиональные навыки:
 * Стек
   * JavaScript
+  * Apollo
   * TypeScript
   * React(в т.ч. tsx)
   * HTML
   * CSS
-  * Python
-  * Django
   * RxJS
+  * GraphQL
   * Webpack, Rollup
-  * MVC
-  * MVVM
   * Redux(saga, thunk)
   * Docker
   * Github, Gitlab(А так же CI/CD gitlab-овский и Travis github)
@@ -51,7 +49,6 @@
   * Storybook(для демонстрации UI-компонентов)
   * Jira
   * Jenkins
-  * Работаю по Scrum-у
 
 ## Личные качества:
   * Всегда открыт к развитию и самосовершенствованию, в условиях сильного временного давления, не теряюсь и стараюсь все         расставить на свои места и действовать по разработанному плану.
