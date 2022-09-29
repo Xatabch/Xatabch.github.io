@@ -1,19 +1,19 @@
-# Морозов Иван Александрович
-## Контактная информация
+# Morozov Ivan Aleksandrovich
+## Сontact information
 
 * Email: ivan.morozov@list.ru
-* Телефон: +79267338243
+* Phone: +79267338243
 
-* Профиль на github: [https://github.com/Xatabch](https://github.com/Xatabch)
-* Профиль на gitlab: [https://gitlab.com/Xatabch](https://gitlab.com/Xatabch)
+* Profile on github: [https://github.com/Xatabch](https://github.com/Xatabch)
+* Profile on gitlab: [https://gitlab.com/Xatabch](https://gitlab.com/Xatabch)
 
-## Работа
-  * Mail.ru Group(с октября 2019 года по март 2021)
-    * Frontend-разработчик проектов: "Почта", "Календарь", "Задачи"
-  * Яндекс Музыка(с марта 2021 по настоящее время)
-    * Frontend-разработчик
+## Work
+  * Mail.ru Group(from October 2019 to March 2021)
+    * Frontend-developer in projects "Mail mail.ru", "Calendar mail.ru", "Tasks mail.ru"
+  * Yandex Music(from March 2021 to the present)
+    * Frontend-developer
 
-## Профессиональные навыки:
+## Professional skills:
 * JavaScript
 * Apollo
 * TypeScript
@@ -24,35 +24,30 @@
 * Webpack, Rollup
 * Redux(saga, thunk)
 * Docker
-* Github, Gitlab(А так же CI/CD gitlab-овский и Travis github)
-* UI тестирование на основе selenium
+* Github, Gitlab(Gitlab CI/CD, Travis github)
+* UI testing based on selenium
 * Enzyme
-* Storybook(для демонстрации UI-компонентов)
+* Storybook
 * Jira
 * Jenkins
 
-## Мои проекты:
-### Технопарковские:  
-* Многопользовательская онлайн игра Colors: [https://colors-game.ru](https://colors-game.ru)
-* Сервис для автоматической публикации постов в соц.сетях: [https://cronum.ru](https://cronum.ru)
+## My Projects:
+### Technopark:
+* Multiplayer online game Colors: [https://colors-game.ru](https://colors-game.ru)
+* Service for automatic publication of posts in social networks.networks: [https://cronum.ru](https://cronum.ru)
 
-## Свободные проекты
-* Соц. сеть для публикации текстовых постов(интересно было разработать тектовый редактор аналогичный Medium) [https://lobster.ivanmorozov.now.sh](https://lobster.ivanmorozov.now.sh)
+## Free projects
+* Social network for publishing text posts (it was interesting to develop a text editor similar to Medium) [https://lobster.ivanmorozov.now.sh](https://lobster.ivanmorozov.now.sh)
 
-## Образование
-* МГОУ СОШ №1 г. Сергиев Посад
-
-* МГТУ им. Н. Э. Баумана
-  * Факультет: ИУ
-  * Кафедра: 7 (Программная инженерия)
-  * Статус: Студент - бакалавр
+## Education
+* Bauman Moscow State Technical University
+  * Software Engineering(Bachelor)
   
-* Технопарк@Mail.ru
-  * Закончил основную программу Технопарк@Mail.ru
+* Technopark@Mail.ru
 
-## Личные качества:
-  * Всегда открыт к развитию и самосовершенствованию, в условиях сильного временного давления, не теряюсь и стараюсь все расставить на свои места и действовать по разработанному плану.
+## Personal qualities:
+  * I am always open to self-improvement, in conditions of strong time pressure, I do not get lost and try to put everything in its place and act according to the developed plan.
   
-## Хобби:
-  * Играю в баскетбол, занимаюсь плаванием
-  * Фотография
+## Hobby:
+  * Basketball, swimming
+  * Photo
